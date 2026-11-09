@@ -77,24 +77,36 @@ title: "IT-Lab - homelabbing"
 
 ---
 
-## Small homelab tour
+## Small homelab tour - toestellen
 
-### Devices
+- Proxmodes nodes (2 actief, 2 WIP)
+- UniFi router
+- TP-Link switch (unmanaged)
+- Raspberry Pi 5 (flex/experimenteel)
+- Asustor NAS
 
-#### Proxmox nodes
+---
+
+## Devices - Proxmox nodes
 
 - HP Prodesk - 8 GB RAM scavenged uitgefaseerd bij klant na PC-upgrade
 - Lenovo ThinkCentre - 16 GB RAM scavenged 2ehands.be
 
-#### UniFi router
+---
+
+## Devices - UniFi router
 
 - Dream router 7 - uitgefaseerd bij kennis
 
-#### Unmanaged switch
+---
+
+## Devices - Unmanaged switch
 
 - TPLink basic switch - Cash Converters
 
-#### NAS
+---
+
+## Devices - NAS
 
 - ASUSTOR AS6404T
     - 2ehands.be
@@ -114,9 +126,10 @@ title: "IT-Lab - homelabbing"
 
 ## Secure remote access (VPN)
 
-### Overview high-level
+- Tailscale
+- Toegang tot hele netwerk (subnet router functionaliteit)
+- 1 Tailscale node in netwerk
 
-<!-- Add VPN architecture and explanation here -->
 
 ---
 
