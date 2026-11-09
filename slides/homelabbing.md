@@ -104,12 +104,6 @@ title: "IT-Lab - homelabbing"
 
 ---
 
-## Network layout (basic)
-
-<!-- Add your network diagram or description here -->
-
----
-
 ## Dashboard software tour (Homarr)
 
 - Nextcloud
