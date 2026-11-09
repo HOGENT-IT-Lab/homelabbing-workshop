@@ -14,9 +14,9 @@ title: "IT-Lab - homelabbing"
 
 ---
 
-## What is homelabbing? (Nederlands)
+## What is homelabbing?
 
-> Een prutsomgeving waar niets aan vasthangt!
+> (nederlands) Een prutsomgeving waar niets aan vasthangt, waar je te veel tijd, geld en moeite insteekt.
 
 ---
 
