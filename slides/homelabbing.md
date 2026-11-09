@@ -31,14 +31,11 @@ title: "IT-Lab - homelabbing"
 
 ---
 
-## Experimentatie
+## Experimentatie - goede leersschool
 
-### Good learning environment:
-
-- VirtualBox: good in a pinch, maar geen permanente services
+- VirtualBox: good in a pinch/tijdelijk testen, maar geen permanente services
 - Type 2 hypervisor versus Native OF Type 1 Hypervisor!
-- Sandbox -> if it breaks, it breaks.
-- Goede leerschool
+- Persoonlijke sandbox -> if it breaks, it breaks.
 
 ---
 
