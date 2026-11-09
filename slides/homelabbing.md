@@ -94,22 +94,33 @@ title: "IT-Lab - homelabbing"
 
 ---
 
+## Devices - HP Prodesk
+
+![](./img/HP_Prodesk.jpg)
+
+---
+
+## Devices - Lenovo ThinkCenter
+
+![](./img/Lenovo_ThinkCentre.jpg)
+
+---
+
 ## Devices - UniFi router
 
-- Dream router 7 - uitgefaseerd bij kennis
+![](./img/UDR7.avif)
 
 ---
 
 ## Devices - Unmanaged switch
 
-- TPLink basic switch - Cash Converters
+![](./img/TPLink_switch.jpg)
 
 ---
 
 ## Devices - NAS
 
-- ASUSTOR AS6404T
-    - 2ehands.be
+![](./img/Asustor_NAS.jpg)
 
 ---
 
