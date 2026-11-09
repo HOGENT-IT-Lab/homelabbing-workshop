@@ -108,7 +108,7 @@ title: "IT-Lab - homelabbing"
 
 ## Devices - UniFi router
 
-![](./img/UDR7.avif)
+<img src="./img/UDR7.avif" class="r-stretch" />
 
 ---
 
