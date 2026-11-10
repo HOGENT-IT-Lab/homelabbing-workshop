@@ -33,12 +33,11 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
-## Experimentatie - virtualisatie
+## Experimentatie - virtualisatie (optioneel)
 
 - Virtualisatie: efficiënt gebruiken van hardware
 - VirtualBox: good in a pinch/tijdelijk testen, maar geen permanente services
 - Type 2 hypervisor versus Native OF Type 1 Hypervisor!
-- Persoonlijke sandbox -> if it breaks, it breaks.
 
 ---
 
