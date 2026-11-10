@@ -4,6 +4,8 @@ title: "IT-Lab - homelabbing"
 
 # Homelabbing
 
+![](./img/QR-workshop.png)
+
 ---
 
 ## What is homelabbing?
