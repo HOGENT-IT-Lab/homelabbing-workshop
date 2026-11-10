@@ -2,7 +2,7 @@
 title: "IT-Lab - homelabbing"
 ---
 
-# Homelabbin
+# Homelabbing
 
 Slides: https://hogent-it-lab.github.io/homelabbing-workshop
 
