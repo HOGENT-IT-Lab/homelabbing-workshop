@@ -100,6 +100,11 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
+## Any% Docker speedrun
+
+- Demo: hoe snel docker installeren op Linux-machine?
+- OS: Ubuntu server (CLI-only)
+
 ## Fancy stuff
 
 - Type 1 Hypervisor* (**Proxmox**)
