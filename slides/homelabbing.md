@@ -22,7 +22,7 @@ title: "IT-Lab - homelabbing"
 
 ## Why should it matter to me?
 
-### Productie-systeem, maar niet helemaal:
+Productie-systeem, maar niet helemaal:
 
 - Geen SLA's
 - Geen tijdsrestricties
@@ -31,13 +31,24 @@ title: "IT-Lab - homelabbing"
 
 ---
 
-## Experimentatie - goede leersschool
+## Experimentatie - virtualisatie
 
+- Virtualisatie: efficiënt gebruiken van hardware
 - VirtualBox: good in a pinch/tijdelijk testen, maar geen permanente services
 - Type 2 hypervisor versus Native OF Type 1 Hypervisor!
 - Persoonlijke sandbox -> if it breaks, it breaks.
 
 ---
+
+
+## Experimentatie - goede leersschool
+
+- Persoonlijke sandbox -> if it breaks, it breaks.
+- Geen verwachtingen, regels of verplichtingen
+- Technische skills en leren documenteren...
+
+---
+
 
 ## Digital sovereignty
 
@@ -53,27 +64,53 @@ title: "IT-Lab - homelabbing"
 
 ## Getting started
 
-### Start small:
+### Start small!
 
-- Start with some older hardware
-- Linux is your best friend!
-- One device with Linux and docker -> plenty to start
+- Oude laptop, oude PC
+- Hardware moet niet extreem sterk zijn
+- Zeker nu: RAMpocalypse
+
 
 ---
+
+# Linux, Linux, Linux
+
+- Linux is your best friend!
+- 1 toestel met Linux en Docker (Compose) geïnstallerd -> meer heb je niet nodig!
+- Kijk (eerst) naar een basisdistro (Ubuntu Server, AlmaLinux, ...)
+- Headless/CLI: veel minder resources nodig dan GUI 
+
+---
+
+# Docker
+
+- Virtualisatie op applicatie-niveau
+- Niet de focus van vandaag, maar fantastische tool
+- Meer info? Online en slides van [IT-Lab Workshop](https://hogent-it-lab.github.io/docker-workshop/slides)
+
+---
+
 
 ## Hardware
 
 - Zoek tweedehands!
 - Oude laptops/toestellen repurposen
 - Navraag bij vrienden/familie
+- Mensen smijten vaak dingen weg die voor ons nog bruikbaar zijn
 
 ---
 
-## Fancy upgrades
+## Fancy stuff
 
-- Type 1 Hypervisor* (Proxmox)
-- Custom domain name with HTTPS ()
-- Storage for network and clients (NAS)
+- Type 1 Hypervisor* (**Proxmox**)
+- Custom domain name with HTTPS (**Caddy** of een andere reverse proxy)
+- Storage for network and clients (**NAS**)
+
+---
+
+# Small homelab tour
+
+![](./img/Homelab_rack.JPG)
 
 ---
 
@@ -108,7 +145,7 @@ title: "IT-Lab - homelabbing"
 
 ## Devices - UniFi router
 
-<img src="./img/UDR7.avif" class="r-stretch" />
+![](./img/UniFi_Dream_Router.jpeg)
 
 ---
 
