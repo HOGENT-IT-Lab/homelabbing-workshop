@@ -222,3 +222,12 @@ Productie-systeem, maar niet helemaal:
 - Geen idee wat ik al heb
 - Geen idee hoe welke nummers ik ontbreek
 - Papier is saai en kan ik vergeten
+
+---
+
+## Take-home message
+
+- Experimenteren
+- Open source
+- Bijleren
+- F U N
