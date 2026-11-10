@@ -2,9 +2,9 @@
 title: "IT-Lab - homelabbing"
 ---
 
-# Homelabbing
+# Homelabbin
 
-![](./img/QR-workshop.png)
+Slides: https://hogent-it-lab.github.io/homelabbing-workshop
 
 ---
 
