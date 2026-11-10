@@ -63,9 +63,7 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
-## Getting started
-
-### Start small!
+## Start small!
 
 - Oude laptop, oude PC
 - Hardware moet niet extreem sterk zijn
