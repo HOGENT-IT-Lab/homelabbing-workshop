@@ -16,7 +16,9 @@ title: "IT-Lab - homelabbing"
 
 ## What is homelabbing?
 
-> (nederlands) Een prutsomgeving waar niets aan vasthangt, waar je te veel tijd, geld en moeite insteekt.
+### Definition from me:
+
+> (nederlands) Een prutsomgeving waar niets aan vasthangt, waar je te veel tijd, geld en moeite insteekt. Wel tof!
 
 ---
 
@@ -73,6 +75,15 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
+## Hardware
+
+- Zoek tweedehands!
+- Oude laptops/toestellen repurposen
+- Navraag bij vrienden/familie
+- Mensen smijten vaak dingen weg die voor ons nog bruikbaar zijn
+
+---
+
 ## Linux, Linux, Linux
 
 - Linux is your best friend!
@@ -87,16 +98,6 @@ Productie-systeem, maar niet helemaal:
 - Virtualisatie op applicatie-niveau
 - Niet de focus van vandaag, maar fantastische tool
 - Meer info? Online en slides van [IT-Lab Workshop](https://hogent-it-lab.github.io/docker-workshop/slides)
-
----
-
-
-## Hardware
-
-- Zoek tweedehands!
-- Oude laptops/toestellen repurposen
-- Navraag bij vrienden/familie
-- Mensen smijten vaak dingen weg die voor ons nog bruikbaar zijn
 
 ---
 
