@@ -86,7 +86,7 @@ Productie-systeem, maar niet helemaal:
 ## Linux, Linux, Linux
 
 - Linux is your best friend!
-- 1 toestel met Linux en Docker (Compose) geïnstallerd -> meer heb je niet nodig!
+- 1 toestel met Linux en Docker (Compose) geïnstalleerd -> meer heb je niet nodig!
 - Kijk (eerst) naar een basisdistro (Ubuntu Server, AlmaLinux, ...)
 - Headless/CLI: veel minder resources nodig dan GUI 
 
