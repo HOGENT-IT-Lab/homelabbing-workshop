@@ -73,7 +73,7 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
-# Linux, Linux, Linux
+## Linux, Linux, Linux
 
 - Linux is your best friend!
 - 1 toestel met Linux en Docker (Compose) geïnstallerd -> meer heb je niet nodig!
@@ -82,7 +82,7 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
-# Docker
+## Docker
 
 - Virtualisatie op applicatie-niveau
 - Niet de focus van vandaag, maar fantastische tool
@@ -108,7 +108,7 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
-# Small homelab tour
+## Small homelab tour
 
 ![](./img/Homelab_rack.JPG)
 
@@ -167,7 +167,6 @@ Productie-systeem, maar niet helemaal:
 - Jellyfin
 - Immich
 - Pihole
-- Home assistant (WIP)
 - Netbox
 
 ---
@@ -181,6 +180,38 @@ Productie-systeem, maar niet helemaal:
 
 ---
 
-## Show weekmenu application
+## Custom apps
 
-<!-- Demonstration of a practical homelab application -->
+- Supereenvoudig om zelf iets te schrijven
+- Dockerize and deploy
+- Reverse proxy met Cloudflare DNS: certificaten en HTTPS!
+
+---
+
+## Weekmenu
+
+- Te veel ADHD
+- Te veel keuzestress
+- Eenvoudige manier om weekmenu te genereren en aan te passen
+
+---
+
+## Stirling PDF
+
+- Adobe Acrobat paywal? Grrrr
+- Stirling PDF: open source tool
+- Self-hosted en gratis, veel features!
+
+---
+
+## Nerd? No problem!
+
+![](./img/Nerd_proof.JPG)
+
+---
+
+## Pokedex
+
+- Geen idee wat ik al heb
+- Geen idee hoe welke nummers ik ontbreek
+- Papier is saai en kan ik vergeten
